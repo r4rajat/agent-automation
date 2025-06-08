@@ -23,6 +23,7 @@ __pycache__/
 *.yaml
 *.yml
 *.txt
+!requirements.txt
 *.bak
 *.swp
 *.swo
